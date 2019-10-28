@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a49111-ed23-43b1-a58d-c594a41a525c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtelierulDigital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/Lab1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/chalenge3/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/Lab1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/Lab1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Pair">
     <configuration name="Lab1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lab1.Main" />
       <module name="AtelierulDigital" />
@@ -48,6 +45,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chalenge3.Pair" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chalenge3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab1" />
+      <item itemvalue="Application.Pair" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pair" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
