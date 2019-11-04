@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a49111-ed23-43b1-a58d-c594a41a525c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab1/chalenge3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge1/BoxingMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge1/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge2/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge2/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge2/Premiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Challenge2/Studio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/Lab1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/Lab1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +32,9 @@
   </component>
   <component name="ProjectId" id="1SqFSeRY3qwTCvuyPB2HjukjHzm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,10 +47,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pair">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Ch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Challange2.Ch2" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1.Challange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lab1.Main" />
       <module name="AtelierulDigital" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Challenge2.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab2.Challenge2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Challenge1.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab2.Challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,9 +110,15 @@
     <list>
       <item itemvalue="Application.Lab1" />
       <item itemvalue="Application.Pair" />
+      <item itemvalue="Application.Ch2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ch2" />
         <item itemvalue="Application.Pair" />
       </list>
     </recent_temporary>
@@ -86,7 +141,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
